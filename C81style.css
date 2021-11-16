@@ -1,0 +1,11 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund{background-image:url("https://t3.ftcdn.net/jpg/03/16/24/30/360_F_316243099_Eg0SkTanMCZXIQxXwXtvmTg9D7pz1jv6.jpg");
+}
+#myCanvas{
+background-color: white;
+}
